@@ -73,4 +73,6 @@ I specialize in building innovative digital solutions that bridge the gap betwee
 
 ---
 
-⭐ **Check out my repos below and let's innovate together!**
+⭐ **Let's innovate together!**
+
+[![🚀 Let's Build the Future Together!](https://img.shields.io/badge/🚀%20Let's%20Build%20the%20Future%20Together!-blueviolet?style=for-the-badge
