@@ -52,10 +52,22 @@ I specialize in building innovative digital solutions that bridge the gap betwee
 
 ---
 
+## 📂 **Recent Projects**
+
+🚀 **PerlaNet Loan dApp**: A decentralized lending platform built on the Solana blockchain, offering trustless lending and borrowing.
+
+🔗 **Task-to-Airtime System**: Empowering users to earn mobile airtime by completing simple digital tasks using PLNT tokens.
+
+💼 **Solana Wallet Integration**: Secure Solana wallet creation and authentication system for seamless user onboarding.
+
+🎥 **Video Content Automation**: Python-powered automation scripts for professional-grade video editing and content production.
+
+---
+
 ## 📫 **Connect With Me**
 
-- **LinkedIn**: [Coming Soon]
-- **Twitter**: [Coming Soon]
+- **LinkedIn**: [https://www.linkedin.com/in/hsprafrique/]
+- **Twitter**: [https://x.com/hsprafrique]
 
 🚀 Always open to collaborating on cutting-edge projects that push the boundaries of technology!
 
