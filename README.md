@@ -4,9 +4,9 @@
 
 I specialize in building innovative digital solutions that bridge the gap between Web2 and Web3. My work spans advanced backend systems, smart contracts, and scalable applications designed to drive real-world impact. I'm passionate about pushing the boundaries of technology while empowering communities through accessible digital platforms.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelivere&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelivere&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=samuelivere&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsprafrique&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsprafrique&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=hsprafrique&color=blue)
 
 ---
 
